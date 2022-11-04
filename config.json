@@ -1,0 +1,30 @@
+﻿{
+  "Plants": {
+    "PlantInfo": [
+      {
+        "Id": 1,
+        "Name": "Szeflera drzewkowata",
+        "LatinName": "Schefflera arboricola Nora",
+        "Description": "Schefflera arboricola Nora to odmiana szeflery drzewkowatej. Szeflery kochamy za ich gęste ulistnienie i duże możliwości wzrostu! Ze względu na swoje liście bywają również porównywane do parasolu. Schefflera arboricola Nora jest dość łatwa w uprawie rośliną i wybacza drobne błędy pielęgnacyjne!",
+        "Orgins": "Schefflera arboricola to roślina z rodziny Araliaceae, pochodząca z Azji, a dokładniej z Chin i Tajwanu.",
+        "Position": "Odpowiednie dla szeflery jest stanowisko jasne do półcienistego, bez ekspozycji na bezpośrednie promieniowanie słoneczne. Latem może przebywać również w cieniu na dworze (znosi temperatury nie spadające poniżej 10 stopni Celsjusza).",
+        "Temperature": "Latem 18-21 stopni Celsjusza, zimą lubi nieco niższe temperatury, jednak nie jest mrozoodporna. Unikajmy towarzystwa rozgrzanych grzejników i mocnych przeciągów.",
+        "MethodOfCare": "Schefflera arboricola Nora wymaga podlewania, gdy ziemia w doniczce przeschnie. Nie dopuszczajmy, aby roślina stała w stale rozmoczonej ziemi, ale nie zostawiajmy jej również wyschniętej na wiór. Zarówno przelanie, jak i przesuszenie może skutkować przebarwieniami na liściach, a nawet odpadaniem liści. Pamiętajmy, aby po podlaniu wylać nadmiar wody z podstawki. Pomocne może być również podlewanie z higrometrem i odpowiedni drenaż. Warto zapewnić szeflerze podwyższoną wilgotność powietrza, chociaż daje sobie radę już w około 40% wilgotności. Wiosną i latem ważne jest również regularne nawożenie - co 2-4 tygodnie. W tym celu możemy stosować nawóz bogaty w azot, naprzemiennie z biohumusem. Podłoże dla szeflery powinno być rozluźnione perlitem lub wermikulitem, co pomoże zapobiec zastoinom wody.",
+        "Substrate": "Podłoże uniwersalne",
+        "PetsFriendly": false
+      },
+      {
+        "Id": 2,
+        "Name": "Fitonia z czerwonym unerwieniem",
+        "LatinName": "Fittonia albivenis Skeleton",
+        "Description": "Fittonia albivenis Skeleton ma listki pokryte gęstą siatką czerwonych żyłek, pięknie odcinających się od zielonej blaszki. Gęsty, dorodny pokrój i żywa, intensywna kolorystyka cieszą oczy.",
+        "Orgins": "Lasy tropikalne Ameryki Południowej",
+        "Position": "Fittonia lubi stanowiska jasne do półcienistych, ale nie wolno wystawiać jej na pełne słońce, gdyż jej delikatne listki szybko ulegną poparzeniu.",
+        "Temperature": "Lubi ciepło i wysoką wilgotność powietrza.",
+        "MethodOfCare": "Lubi wysoką wilgotność powietrza i stabilną ciepłą temperaturę. Nie wolno jej przelewać, ale nie można też doprowadzić do przesuszenia podłoża, bo zwiędną jej listki. Można ją uszczykiwać, by pobudzić rozkrzewianie się. Dobrze sprawdza się w terrariach i słojach, gdzie ma zapewnioną stałą wilgotność.",
+        "Substrate": "Podłoże uniwersalne",
+        "PetsFriendly": true
+      }
+    ]
+  }
+}
