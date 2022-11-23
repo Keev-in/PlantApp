@@ -44,7 +44,6 @@ namespace PlantApp
 
             var content = reader.ReadToEnd();
             _localContent = JsonConvert.SerializeObject(content);
-            var temp = JsonConvert.DeserializeObject<Plant>(_localContent);
         }
 
         public string ContentParsing(string content)
