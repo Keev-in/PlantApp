@@ -263,3 +263,5 @@ C:\Dev\PlantApp\obj\Debug\net6.0-ios\iossimulator-x64\refint\PlantApp.dll
 C:\Dev\PlantApp\obj\Debug\net6.0-ios\iossimulator-x64\PlantApp.pdb
 C:\Dev\PlantApp\obj\Debug\net6.0-ios\iossimulator-x64\PlantApp.genruntimeconfig.cache
 C:\Dev\PlantApp\obj\Debug\net6.0-ios\iossimulator-x64\ref\PlantApp.dll
+C:\Dev\PlantApp\bin\Debug\net6.0-ios\iossimulator-x64\HtmlAgilityPack.dll
+C:\Dev\PlantApp\bin\Debug\net6.0-ios\iossimulator-x64\Newtonsoft.Json.dll

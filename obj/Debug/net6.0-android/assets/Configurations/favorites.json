@@ -1,0 +1,16 @@
+﻿{
+  "Plants": {
+    "PlantInfo": [
+      {
+        "Id": 1,
+        "Name": "Szeflera drzewkowata",
+        "LatinName": "Schefflera arboricola Nora"
+      },
+      {
+        "Id": 2,
+        "Name": "Fitonia z czerwonym unerwieniem",
+        "LatinName": "Fittonia albivenis Skeleton"
+      }
+    ]
+  }
+}
