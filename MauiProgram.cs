@@ -23,7 +23,8 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
 
-		builder.Services.AddSingleton<DataSyncService>(new DataSyncService());
+		if (Connectivity.Current.NetworkAccess == NetworkAccess.Internet)
+			builder.Services.AddSingleton<DataSyncService>(new DataSyncService(true));
 
 		return builder.Build();
 	}
